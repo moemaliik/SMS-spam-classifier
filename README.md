@@ -30,7 +30,7 @@ Algorithm: Multinomial Naive Bayes
 
 Rationale: Selected for its efficiency and effectiveness in text classification tasks
 
-#Model Performance
+Model Performance
 Accuracy: 99.04%
 
 Evaluation Metrics: Comprehensive classification report including precision, recall, and F1-score for both spam and ham classifications
