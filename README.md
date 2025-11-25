@@ -25,7 +25,7 @@ The project uses the SMS Spam Collection Dataset, which contains SMS messages la
 - Train-test split with 70-30 ratio
 - Text vectorization using CountVectorizer to convert messages into numerical features
 
-#Model Selection
+# Model Selection
 Algorithm: Multinomial Naive Bayes
 
 Rationale: Selected for its efficiency and effectiveness in text classification tasks
