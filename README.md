@@ -35,7 +35,7 @@ Accuracy: 99.04%
 
 Evaluation Metrics: Comprehensive classification report including precision, recall, and F1-score for both spam and ham classifications
 
-#Project Structure
+# Project Structure
 The implementation follows a standard machine learning workflow:
 
 - Data loading and exploration
